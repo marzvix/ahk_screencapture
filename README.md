@@ -9,6 +9,6 @@ O script caputura a tela, apertando-se a F1
 
 A configuração é simples e está explicada nos comentaários do
 script
-[[https://www.autohotkey.com/][Auto Hotkey]]
+[https://www.autohotkey.com/](Auto Hotkey)
 
-[[https://autohotkey.com/board/topic/121619-screencaptureahk-broken-capturescreen-function-win-81-x64/][Tópico original do script]]
+[https://autohotkey.com/board/topic/121619-screencaptureahk-broken-capturescreen-function-win-81-x64/](Tópico original do script)
